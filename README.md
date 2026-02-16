@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-beauty-maji-610391308
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beauty-maji-610391308
 ) 
 
 - 🌱 I’m currently learning **JAVA,MERN FULLSTACK**
