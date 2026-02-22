@@ -20,13 +20,13 @@
 - 😀 Fun fact **My first "hello world" crashed my carrier.**
 
 <h3 align="left">Languages and Tools:</h3>
-<table border="1" cellpadding="10"> 
-<tr> 
-  <th>PROGRAMMING LANGUAGE</th>
-  <th>FRONTEND DEVELOPMENT</th> 
-  <th>BACKEND DEVELOPMENT</th> 
-  <th>DATABASE</th>
-  <th>TOOLS / BAAS</th>
+<table>
+<tr>
+<th>PROGRAMMING LANGUAGE</th>
+<th>FRONTEND DEVELOPMENT</th>
+<th>BACKEND DEVELOPMENT</th>
+<th>DATABASE</th>
+<th>TOOLS / BAAS</th>
 </tr>
 
 <tr>
@@ -42,7 +42,11 @@
 </a>
 </td>
 
-<td> — </td>
+<td>
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+</a>
+</td>
 
 <td>
 <a href="https://www.mysql.com/" target="_blank">
@@ -59,8 +63,8 @@
 
 <tr>
 <td>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </a>
 </td>
 
@@ -70,7 +74,31 @@
 </a>
 </td>
 
-<td> — </td>
+<td>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="40"/>
+</a>
+</td>
+
+<td>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</a>
+</td>
+
+<td>—</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</a>
+</td>
+
+<td>—</td>
+
+<td>—</td>
 
 <td>
 <a href="https://www.oracle.com/" target="_blank">
@@ -78,7 +106,7 @@
 </a>
 </td>
 
-<td> — </td>
+<td>—</td>
 </tr>
 
 </table>
