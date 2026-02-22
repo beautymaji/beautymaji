@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Beauty Maji</h1>
 <h3 align="center">A passionate web application from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanbanerjee07&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanbanerjee07" /> </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beauty-maji-610391308
