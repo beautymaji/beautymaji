@@ -32,85 +32,112 @@
 </tr>
 
 <tr>
-<td>
+
+<!-- Programming -->
+<td align="center">
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </a>
+<br>C
 </td>
 
-<td>
+<!-- Frontend -->
+<td align="center">
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 </a>
+<br>CSS
 </td>
 
-<td>
+<!-- Backend -->
+<td align="center">
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </a>
+<br>Node.js
+
+<br><br>
 
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 </a>
+<br>Express.js
 </td>
 
-<td>
+<!-- Database -->
+<td align="center">
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </a>
-</td>
+<br>MySQL
 
-<td> — </td>
-</tr>
+<br><br>
 
-<tr>
-<td>
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</a>
-</td>
-
-<td>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-</a>
-</td>
-
-<td> — </td>
-
-<td>
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </a>
+<br>MongoDB
+
+<br><br>
 
 <a href="https://www.oracle.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </a>
+<br>Oracle
 </td>
 
-<td>
+<!-- Tools -->
+<td align="center">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </a>
+<br>Git
 </td>
+
 </tr>
 
 <tr>
-<td>
+
+<td align="center">
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</a>
+<br>Java
+</td>
+
+<td align="center">
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</a>
+<br>HTML
+</td>
+
+<td> — </td>
+<td> — </td>
+<td> — </td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </a>
+<br>JavaScript
 </td>
 
-<td>
+<td align="center">
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </a>
+<br>React
 </td>
 
 <td> — </td>
 <td> — </td>
 <td> — </td>
+
 </tr>
 
 </table>
