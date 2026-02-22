@@ -48,16 +48,21 @@
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </a>
-</td>
 
-<td>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
 </a>
 </td>
 
-<td> — </td>   <!-- Bash removed -->
+<td>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</a>
+</td>
+
+<td> — </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://www.java.com" target="_blank">
@@ -74,14 +79,12 @@
 <td> — </td>
 
 <td>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</a>
-</td>
-
-<td>
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</a>
+
+<a href="https://www.oracle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </a>
 </td>
 
@@ -106,13 +109,7 @@
 </td>
 
 <td> — </td>
-
-<td>
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-</a>
-</td>
-
+<td> — </td>
 <td> — </td>
 </tr>
 
